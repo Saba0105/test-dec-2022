@@ -1,0 +1,5 @@
+net\javaguides\spirngboot\controller\StudentController.class
+net\javaguides\spirngboot\repository\StudentRepository.class
+net\javaguides\spirngboot\entity\Student$StudentBuilder.class
+net\javaguides\spirngboot\entity\Student.class
+net\javaguides\spirngboot\SpringbootTestcontainersDemoApplication.class

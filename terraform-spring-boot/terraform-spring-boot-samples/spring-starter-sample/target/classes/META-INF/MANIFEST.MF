@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 15.0.1
+Implementation-Title: Terraform Spring Boot Starter Sample App
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.microsoft.terraform.samples
+Implementation-Vendor: Microsoft
+Implementation-URL: https://github.com/Microsoft/terraform-spring-boot
+Created-By: Maven Integration for Eclipse
+
